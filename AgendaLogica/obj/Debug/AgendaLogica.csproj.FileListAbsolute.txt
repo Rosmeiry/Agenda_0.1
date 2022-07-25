@@ -1,0 +1,11 @@
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\bin\Debug\AgendaLogica.dll
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\bin\Debug\AgendaLogica.pdb
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\bin\Debug\Datos.dll
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\bin\Debug\Entidad.dll
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\bin\Debug\Datos.pdb
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\bin\Debug\Entidad.pdb
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\obj\Debug\AgendaLogica.csproj.AssemblyReference.cache
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\obj\Debug\AgendaLogica.csproj.CoreCompileInputs.cache
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\obj\Debug\AgendaLogica.csproj.CopyComplete
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\obj\Debug\AgendaLogica.dll
+C:\Users\roslastry\Downloads\Prog2\Agenda\Capa_Presentacion\AgendaLogica\obj\Debug\AgendaLogica.pdb
